@@ -1,10 +1,10 @@
-# 🌱 Smart Irrigation System using Arduino & NodeMCU
+# Smart Irrigation System using Arduino & NodeMCU
 
 This is a smart irrigation solution that automates and optimizes water usage by using sensor data, weather forecasts, and AI-based decision-making. Built with Arduino Uno, NodeMCU ESP8266, and a Node.js backend, the system supports both automatic and manual irrigation control.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Real-Time Data Collection**  
   Collects data from:
@@ -34,7 +34,7 @@ This is a smart irrigation solution that automates and optimizes water usage by 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Microcontrollers:** Arduino Uno, NodeMCU ESP8266  
 - **Server:** Node.js with WebSocket  
